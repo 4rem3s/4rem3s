@@ -1,7 +1,5 @@
 - Hi! I am Dawood aka aremes.
-- I am a student of knowledge.
-- Obsession is solving problems & learning: systems programming, machine learning & Ai.
-- I work in C, C++, Python & Rust.
+
 
 
 
